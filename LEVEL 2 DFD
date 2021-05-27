@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T09:59:14.065Z" agent="5.0 (X11)" etag="x5ki06VAji2YJtxNVmz8" version="14.6.13" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-27T10:00:32.105Z" agent="5.0 (X11)" etag="nrXzyluB5hjaO11psOPw" version="14.6.13" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="CUSTOMER LOGIN AND REGISTRATION">
     <mxGraphModel dx="2844" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,7 +300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IfPClbTMvLEPte1zz-R6" name="ADMIN MANAGEMENT">
-    <mxGraphModel dx="2844" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="03McbsvFlDVmSkQLx08f-0" />
         <mxCell id="03McbsvFlDVmSkQLx08f-1" parent="03McbsvFlDVmSkQLx08f-0" />
@@ -378,7 +378,7 @@
         <mxCell id="03McbsvFlDVmSkQLx08f-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="03McbsvFlDVmSkQLx08f-1" source="03McbsvFlDVmSkQLx08f-22" target="03McbsvFlDVmSkQLx08f-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="03McbsvFlDVmSkQLx08f-22" value="&lt;div&gt;Admin Login &lt;br&gt;&lt;/div&gt;&lt;div&gt;Verification&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
+        <mxCell id="03McbsvFlDVmSkQLx08f-22" value="&lt;div&gt;Admin&lt;/div&gt;&lt;div&gt;Registration&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
           <mxGeometry x="1180" y="620" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="03McbsvFlDVmSkQLx08f-24" value="New Admin details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=270;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
