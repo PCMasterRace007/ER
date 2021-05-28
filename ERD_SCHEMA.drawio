@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T11:56:46.198Z" agent="5.0 (X11)" etag="oWoaEmNwG7hkmcBWpxeB" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T11:58:25.719Z" agent="5.0 (X11)" etag="gEtD3cu2edXLeMjpqZgh" version="14.6.13" type="github">
   <diagram id="V7bS7ZGvb8GI5Ki3fT6N" name="Page-1">
     <mxGraphModel dx="1422" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,7 +482,7 @@
         <mxCell id="hf0RXOYRYlcpUUbahjFG-18" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="hf0RXOYRYlcpUUbahjFG-17">
           <mxGeometry width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hf0RXOYRYlcpUUbahjFG-19" value="Booking_ID   VARCHAR(255)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="hf0RXOYRYlcpUUbahjFG-17">
+        <mxCell id="hf0RXOYRYlcpUUbahjFG-19" value="PBooking_ID   VARCHAR(255)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="hf0RXOYRYlcpUUbahjFG-17">
           <mxGeometry x="20" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9oEyipRwHzk4dOdtvLpS-197" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9oEyipRwHzk4dOdtvLpS-196" vertex="1">
@@ -539,7 +539,7 @@
         <mxCell id="hf0RXOYRYlcpUUbahjFG-21" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="hf0RXOYRYlcpUUbahjFG-20">
           <mxGeometry width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hf0RXOYRYlcpUUbahjFG-22" value="Booking_ID   VARCHAR(255)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="hf0RXOYRYlcpUUbahjFG-20">
+        <mxCell id="hf0RXOYRYlcpUUbahjFG-22" value="RBooking_ID   VARCHAR(255)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="hf0RXOYRYlcpUUbahjFG-20">
           <mxGeometry x="20" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9oEyipRwHzk4dOdtvLpS-219" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="9oEyipRwHzk4dOdtvLpS-218" vertex="1">
