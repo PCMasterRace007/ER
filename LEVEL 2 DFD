@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T09:31:01.582Z" agent="5.0 (X11)" etag="FDih7k6uhlKAtgzXDGlJ" version="14.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-13T09:32:25.621Z" agent="5.0 (X11)" etag="rsuZkWuP7mIpwpKLBeUr" version="14.8.3" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="CUSTOMER LOGIN AND REGISTRATION">
     <mxGraphModel dx="1662" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
         </mxCell>
         <mxCell id="03McbsvFlDVmSkQLx08f-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="03McbsvFlDVmSkQLx08f-1" source="03McbsvFlDVmSkQLx08f-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="580" as="targetPoint" />
+            <mxPoint x="503" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="03McbsvFlDVmSkQLx08f-3" value="Admin" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=6;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
@@ -387,21 +387,25 @@
         <mxCell id="03McbsvFlDVmSkQLx08f-28" value="Password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=270;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
           <mxGeometry x="1260" y="770" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="03McbsvFlDVmSkQLx08f-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.36;exitY=0.044;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="03McbsvFlDVmSkQLx08f-1" source="03McbsvFlDVmSkQLx08f-29" target="03McbsvFlDVmSkQLx08f-41" edge="1">
+        <mxCell id="03McbsvFlDVmSkQLx08f-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.36;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" parent="03McbsvFlDVmSkQLx08f-1" source="03McbsvFlDVmSkQLx08f-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="922" />
+              <mxPoint x="505" y="992" />
             </Array>
+            <mxPoint x="505" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="03McbsvFlDVmSkQLx08f-29" value="Package List" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;rounded=1;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
-          <mxGeometry x="420" y="920" width="150" height="45" as="geometry" />
+          <mxGeometry x="430" y="990" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="03McbsvFlDVmSkQLx08f-41" value="&lt;div&gt;package&lt;br&gt;&lt;/div&gt;&lt;div&gt;deletion&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
-          <mxGeometry x="450" y="585" width="110" height="110" as="geometry" />
+        <mxCell id="03McbsvFlDVmSkQLx08f-41" value="Package Removal" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
+          <mxGeometry x="450" y="610" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="03McbsvFlDVmSkQLx08f-42" value="Package Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=270;" parent="03McbsvFlDVmSkQLx08f-1" vertex="1">
-          <mxGeometry x="290" y="810" width="100" height="20" as="geometry" />
+        <mxCell id="935Eo0eg5tIOjx9CkOZi-1" value="&lt;div&gt;Customer&lt;/div&gt;&lt;div&gt;Removal&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;" vertex="1" parent="03McbsvFlDVmSkQLx08f-1">
+          <mxGeometry x="675" y="610" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="935Eo0eg5tIOjx9CkOZi-2" value="Business Removal" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;" vertex="1" parent="03McbsvFlDVmSkQLx08f-1">
+          <mxGeometry x="210" y="610" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
