@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T09:36:45.031Z" agent="5.0 (X11)" etag="EW_sh4a33udvq4RvG8SS" version="14.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-13T09:37:35.892Z" agent="5.0 (X11)" etag="147UvMQjCMqGpqLShVcj" version="14.8.3" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="CUSTOMER LOGIN AND REGISTRATION">
     <mxGraphModel dx="1662" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BU9-_cfaZfJwE93GRRiq" name="CUSTOMER PACKAGE BOOKING AND BUSINESS ADMINISTRATION">
-    <mxGraphModel dx="1662" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ICJkHucTi2QXEOSCqd9R-0" />
         <mxCell id="ICJkHucTi2QXEOSCqd9R-1" parent="ICJkHucTi2QXEOSCqd9R-0" />
@@ -556,8 +556,8 @@
         <mxCell id="ICJkHucTi2QXEOSCqd9R-35" value="&lt;div&gt;Booking &lt;br&gt;&lt;/div&gt;&lt;div&gt;Confirmation&lt;br&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=0;fontSize=14;" parent="ICJkHucTi2QXEOSCqd9R-1" vertex="1">
           <mxGeometry x="643" y="60" width="97" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="ICJkHucTi2QXEOSCqd9R-38" value="Payment commision" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="ICJkHucTi2QXEOSCqd9R-1" vertex="1">
-          <mxGeometry x="500" y="20" width="140" height="20" as="geometry" />
+        <mxCell id="ICJkHucTi2QXEOSCqd9R-38" value="Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="ICJkHucTi2QXEOSCqd9R-1" vertex="1">
+          <mxGeometry x="535" y="20" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ICJkHucTi2QXEOSCqd9R-39" value="Approval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="ICJkHucTi2QXEOSCqd9R-1" vertex="1">
           <mxGeometry x="505" y="80" width="70" height="20" as="geometry" />
